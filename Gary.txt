@@ -17,6 +17,6 @@ pythond.exe
 ------------------------------------------------------------------------------------
 in the example above i deleted the gary folder & moved the "dos" folder to c:
 ------------------------------------------------------------------------------------
-cd to folder with pythond.exe
+cd to folder with autoexec.bat
 Type in import Gary.py
 Done
