@@ -1,0 +1,22 @@
+	Windows
+------------------------------------------------------------------------------------
+Launch Gary.exe
+Launches in cmd
+Done
+
+	Dos
+------------------------------------------------------------------------------------
+Change autoexec.bat to your desired folder
+EX:
+------------------------------------------------------------------------------------
+PATH C:\DOS\BIN;C:\DOS\PYTHOND\BIN\PYTHON
+SET PYTHONHOME=C:\DOS\PYTHOND
+SET PYTHONCASEOK=1
+CLS
+pythond.exe
+------------------------------------------------------------------------------------
+in the example above i deleted the gary folder & moved the "dos" folder to c:
+------------------------------------------------------------------------------------
+cd to folder with pythond.exe
+Type in import Gary.py
+Done
