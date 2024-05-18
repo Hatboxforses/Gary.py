@@ -46,10 +46,10 @@ def scene_4():
     choice = raw_input("the question is above did you pirate this game?").lower()
 
     if choice == "yes":
-        print("It's a free game😭")
+        print("It's a free game")
         scene_3()
     elif choice == "no":
-        print("Trick question💀")
+        print("Trick question")
         scene_3()
     else:
         print("Invalid choice. Try again.")
